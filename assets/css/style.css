@@ -61,3 +61,14 @@ footer nav ul li a {
   font-weight: lighter;
   font-size: 16px;
 }
+section h1 {
+  font-weight: bold;
+  font-size: 36px;
+  color: navy;
+  margin: 0;
+  display: inline;
+}
+
+section h2 {
+  float: right;
+}
