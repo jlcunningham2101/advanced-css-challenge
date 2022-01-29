@@ -8,6 +8,7 @@ body {
   color: navy;
   font-family: Helvetica, Arial, sans-serif;
 }
+
 /* apply styles to <header> */
 header {
   padding: 20px 35px;
@@ -16,7 +17,6 @@ header {
 header h1 {
   font-weight: bold;
   font-size: 36px;
-  color: #fce138;
   margin: 0;
   display: inline;
 }
@@ -34,7 +34,8 @@ header nav ul li {
 header nav ul li a {
   margin: 0 30px;
   font-weight: lighter;
-  font-size: 22px;
+  font-size: 18px;
+  text-decoration: underline;
 }
 footer {
   padding: 20px 35px;
@@ -68,7 +69,57 @@ section h1 {
   margin: 0;
   display: inline;
 }
-
 section h2 {
   float: right;
+}
+/*hero style starts here*/
+.hero {
+  background-image: url("../images/download.png");
+  height: 150px;
+  background-size: cover;
+  background-position: center;
+  position: relative;
+}
+/* Hero Style End */
+
+/* Hero Sub Style Start */
+.hero-sub {
+  background-color: aqua;
+  padding: 10px;
+  width: 400px;
+  color: navy;
+  position: absolute;
+  bottom: 20px;
+  right: 140px;
+}
+/* Hero Form Style End */
+
+.section-title-primary-border {
+  border-right-style: solid;
+  border-color: navy;
+}
+.intro p {
+  margin: auto;
+  line-height: 1;
+  color: navy;
+  width: 80%;
+  font-size: 14px;
+}
+.desert-landscape {
+  border: 3px solid aqua;
+}
+.LED-wall {
+  border: 3px solid aqua;
+}
+
+.laptop {
+  border: 3px solid aqua;
+  transition: all;
+}
+
+.pastel-blue {
+  border: 3px solid aqua;
+}
+.run-buddy {
+  border: 3px solid aqua;
 }
