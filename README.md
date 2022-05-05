@@ -4,7 +4,7 @@ Advanced CSS Challenge
 
 ## Description
 
-The webpage acts as a portfolio of my work samples to aid in consideration for furture IT job opportunities.
+The webpage acts as a portfolio of my work samples to aid in consideration for future IT job opportunities.
 
 ## User Story
 

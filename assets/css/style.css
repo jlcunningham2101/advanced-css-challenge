@@ -106,20 +106,35 @@ section h2 {
   font-size: 14px;
 }
 .desert-landscape {
-  border: 3px solid aqua;
+  border: 4px solid aqua;
 }
 .LED-wall {
-  border: 3px solid aqua;
+  border: 4px solid aqua;
 }
 
 .laptop {
-  border: 3px solid aqua;
+  border: 4px solid aqua;
   transition: all;
 }
 
 .pastel-blue {
-  border: 3px solid aqua;
+  border: 4px solid aqua;
 }
 .run-buddy {
-  border: 3px solid aqua;
+  border: 4px solid aqua;
+}
+h3 {
+  background-color: aqua;
+  width: 13%;
+}
+
+h4 {
+  font-weight: lighter;
+  font-size: 10pt;
+  padding: 0 200px 40px 300px;
+}
+p {
+  background-color: aqua;
+  width: 13%;
+  font: 10pt;
 }
